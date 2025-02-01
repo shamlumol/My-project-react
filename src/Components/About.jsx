@@ -71,7 +71,7 @@ const About = () => {
 
               <a
                 className="downloadBtn"
-                href="./IMAGES/mariajoe Resume.pdf"
+                href="./IMG/Resume.pdf"
                 download
             
               >

@@ -66,7 +66,7 @@ const Hero = () => {
                 {displayText}
                 <span style={{ animation: 'blink 1s infinite' }}>|</span> {/* Blinking cursor */}
               </p><br />
-              <a style={{backgroundColor:'#083445'}} className="downloadBtn" href="./IMAGES/mariajoe Resume.pdf" download=""> Download CV</a>
+              <a style={{backgroundColor:'#083445'}} className="downloadBtn" href="./IMAGES/Resume.pdf" download=""> Download CV</a>
               </div>
           </div>
         </div>
